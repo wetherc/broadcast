@@ -2,4 +2,3 @@ tensorflow
 requests
 opencv-python
 numpy
-

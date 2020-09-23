@@ -21,4 +21,6 @@ python3 -m pip install .
 
 == Usage ==
 
-
+```
+python3 -m broadcast.server --help
+```
